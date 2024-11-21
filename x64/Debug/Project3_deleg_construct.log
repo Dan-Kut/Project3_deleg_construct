@@ -1,0 +1,4 @@
+﻿  Human.cpp
+C:\Users\kutum\source\repos\Project5_OPP\Project3_deleg_construct\Human.cpp(27,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kutum\source\repos\Project5_OPP\Project3_deleg_construct\Human.cpp(53,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Project3_deleg_construct.vcxproj -> C:\Users\kutum\source\repos\Project5_OPP\x64\Debug\Project3_deleg_construct.exe
